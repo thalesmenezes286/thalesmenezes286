@@ -1,9 +1,5 @@
 ### About me 👋
 
-**thalesmenezes286/thalesmenezes286** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 - 🎓 I have a degree in Systems Analysis and Development at Universidade Vale do Rio Doce
 - 🔭 I’m currently working on Java/Spring with Angular2
 - 🌱 I’m currently learning Python data science and Spring Boot
