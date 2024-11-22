@@ -51,8 +51,8 @@
     <a href="https://php.net" target="_blank" rel="noreferrer"> 
       <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="php" width="40" height="40"/> 
     </a>
-     <a href="https://php.net" target="_blank" rel="noreferrer"> 
-      <img src="https://vetores.org/c-sharp-svg-logo" alt="php" width="40" height="40"/> 
+     <a href="https://dotnet.microsoft.com/pt-br/languages/csharp" target="_blank" rel="noreferrer"> 
+      <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="php" width="40" height="40"/> 
     </a>
   </p>
 </div>
